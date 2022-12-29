@@ -6,7 +6,7 @@
 
 |内容| 記事の利用箇所 |
 |---|---|
-| [RsaJwtProvider](./rsa-jwt-producer/)| トークンの生成実装(RsaJwtProvider) |
+| [RsaJwtProducer](./rsa-jwt-producer/)| トークンの生成実装(RsaJwtProducer) |
 | [RsaJwtConsumer](./rsa-jwt-consumer/)| トークンの検証実装(RsaJwtConsumer) |
 | [SimpleIdProvider](./rsa-simple-idprovider/)| JWT認証の実装 |
 | [AddCalculator](./rsa-add-calculator/)| JWT認証の実装 |
@@ -53,4 +53,4 @@ mvn clean package
 ```
 
 ## 実行
-記事をの[こちら](https://developer.mamezou-tech.com/blogs/2022/12/31/rsa-java-jwt/)を参照
+[こちら](https://developer.mamezou-tech.com/blogs/2022/12/31/rsa-java-jwt/)の記事を参照
